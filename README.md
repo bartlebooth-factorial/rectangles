@@ -1,7 +1,3 @@
----
-title: "Rectangles"
----
-
 # Introduction
 
 A python turtle game about filling the screen with as many colorful rectangles
